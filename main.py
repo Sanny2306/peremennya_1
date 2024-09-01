@@ -6,5 +6,5 @@ Opening_hours = 1.5
 print(Opening_hours)
 Kurs = "Python"
 print(Kurs)
-time_for_one_task = (1.5/12)
+time_for_one_task = (12/1.5)
 print(time_for_one_task)
