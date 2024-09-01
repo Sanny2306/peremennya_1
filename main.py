@@ -1,11 +1,10 @@
-name = "Alexander"
-print ( name  )
-name = "Homme_work 3"
-print( name )
-name = "Time spent 1.5"
-print( name )
-name = "Python"
-print( name )
-name = "Time_for_one_Task 0.5"
-print( name )
-print("Alexander,Курс Python,Homme_Work 3,Time spent 1.5,Time for one Task 0.5")
+name = "Sanny"
+print(name)
+HommeWork = 12
+print (HommeWork)
+Opening_hours = 1.5
+print(Opening_hours)
+Kurs = "Python"
+print(Kurs)
+time_for_one_task = 0.125
+print(time_for_one_task)
